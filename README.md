@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="/party_parrot.gif"  />
+  <img height="500" src="/pokemon.gif"  />
 </div>
 
 ###
