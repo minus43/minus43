@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="/bills-ugh.gif"  />
+  <img height="500" src="/party-parrot.gif"  />
 </div>
 
 ###
