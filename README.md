@@ -1,4 +1,6 @@
-<p align="center", style="font-size:200%">Minus43</p>
+
+<h1 align="center">minus43</h1>
+
 
 ###
 
