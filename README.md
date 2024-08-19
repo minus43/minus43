@@ -1,7 +1,7 @@
 
 <h1 align="center">minus43</h1>
 <div align="center">
-<a href="http://minus43.github.io">minus43's Technical Blog</a>
+<a href="https://minus43.tistory.com/">minus43's Technical Blog</a>
 </div>
 
 ###
