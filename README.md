@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="/pokemon.gif"  />
+  <img height="500" src="/박훈.png"  />
 </div>
 
 ###
