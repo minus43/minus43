@@ -1,6 +1,6 @@
 <h1 align="center">minus43</h1>
 <div align="center">
-  <a href="https://minus43.tistory.com/">minus43's Technical Blog</a>
+  <a href="https://velog.io/@minus43">minus43's Technical Blog</a>
 </div>
 <div align="center">
   <a href="https://resilient-lunaria-ba5.notion.site/17ddc713351d80d18b3be65fd80ffcba">notion portfolio</a>
