@@ -97,9 +97,20 @@
 
 </div>
 
+<h2 align ="center">🎯 무엇을 좋아하는지</h2>
+
+<div align="left">
+
+- 러닝: 마라톤을 뛰어보고 싶습니다(10km까지는 뛰어봤긴 했는데..ㅎㅎ)  
+- 음악: 외국힙합, 클래식, jpop, 인디음악 등을 듣는걸 좋아합니다.  
+- 커피: 필터커피를 좋아합니다. 
+- 공부: 새로운 것을 배우거나, 기존에 있는 기술을 더 깊게 이해하는 것을 좋아합니다.
+  
+</div>
+
 <h2 align="center">🎯 무엇을 하고 싶은지</h2>
 
-<div align="center">
+<div align="left">
   
 - Spring framework를 자유롭게 활용하고 싶습니다.(특히 Webflux)
 - Kotlin, Go 언어나, TypeScript 등의 언어를 활용하여 백엔드 개발을 하고 싶습니다.
