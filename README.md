@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white&logoWidth=20" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://resilient-lunaria-ba5.notion.site/17ddc713351d80d18b3be65fd80ffcba">
+  <a href="https://resilient-lunaria-ba5.notion.site/1fddc713351d809399dbef47ad90f096?pvs=74">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&logoWidth=20" />
   </a>
 </div>
