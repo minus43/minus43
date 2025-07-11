@@ -24,12 +24,12 @@
 
 <h2 align="center">🎯 나의 이야기</h2>
 
-진로라는 것을 고민하기 시작한 것은 고등학교를 진학하면서였습니다. 당시에 하고 싶었던 것은 연구였는데 막상 어떤 것을 연구하여야 하는지에 대하여 고민이 필요하였습니다. 도서관에서 책을 보다가 우연히 관심을 가지게 되었던 것은 '적정 기술'이라는 분야였습니다.  
+진로라는 것을 고민하기 시작한 것은 고등학교를 진학하면서였습니다. 당시에 하고 싶었던 것은 연구였는데 막상 어떤 것을 연구하여야 하는지에 대하여 고민이 필요하였습니다. 도서관에서 책을 보다가 우연히 관심을 가지게 되었던 것은 '적정 기술'이라는 분야였습니다.
 
-적정 기술(Appropriate Technology)이란, 기술이 사용될 곳의 환경과 사용자에 초점을 둔 기술을 뜻합니다. 
-최신의 기술은 아니지만 사용하는 사람의 삶을 최대한 고려한 기술입니다.   
-사람은 혼자 살아가는 것이 아니라 여러 사람과 같이 살아갑니다.   
-기술이 사람의 편의를 위해 발전하는 것은 맞으나, 여러 사람이 같이 살아가기 위한 기술에는 더욱 의미가 있을 것이라 생각했습니다. 
+적정 기술(Appropriate Technology)이란, 기술이 사용될 곳의 환경과 사용자에 초점을 둔 기술을 뜻합니다.
+최신의 기술은 아니지만 사용하는 사람의 삶을 최대한 고려한 기술입니다.  
+사람은 혼자 살아가는 것이 아니라 여러 사람과 같이 살아갑니다.  
+기술이 사람의 편의를 위해 발전하는 것은 맞으나, 여러 사람이 같이 살아가기 위한 기술에는 더욱 의미가 있을 것이라 생각했습니다.
 
 <h2 align="center">💪 나의 강점</h2>
 
@@ -70,8 +70,8 @@
   
 | 분야 | 기술 |
 |:---:|:---:|
-| 프로그래밍 언어 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 프레임워크 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 프로그래밍 언어 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)|
+| 프레임워크 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)|
 | 데이터베이스 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | 검색엔진 | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
 | 메시징 | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
@@ -101,11 +101,11 @@
 
 <div align="left">
 
-- 러닝: 마라톤을 뛰어보고 싶습니다(10km까지는 뛰어봤긴 했는데..ㅎㅎ)  
-- 음악: 외국힙합, 클래식, jpop, 인디음악 등을 듣는걸 좋아합니다.  
-- 커피: 필터커피를 좋아합니다. 
+- 러닝: 마라톤을 뛰어보고 싶습니다(10km까지는 뛰어봤긴 했는데..ㅎㅎ)
+- 음악: 외국힙합, 클래식, jpop, 인디음악 등을 듣는걸 좋아합니다.
+- 커피: 필터커피를 좋아합니다.
 - 공부: 새로운 것을 배우거나, 기존에 있는 기술을 더 깊게 이해하는 것을 좋아합니다.
-  
+
 </div>
 
 <h2 align="center">🎯 무엇을 하고 싶은지</h2>
