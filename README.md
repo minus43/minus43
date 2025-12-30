@@ -10,6 +10,8 @@
   <a href="https://resilient-lunaria-ba5.notion.site/1fddc713351d809399dbef47ad90f096?pvs=74">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&logoWidth=20" />
   </a>
+  
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minus0403)
 </div>
 
 <br>
